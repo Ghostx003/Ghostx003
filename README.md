@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Devi Prasad Nayak
+# 👋 Hi, I'm Devi Nayak
 
 ### Software Engineer • AI Enthusiast • Full Stack Developer • Open Source Contributor
 
