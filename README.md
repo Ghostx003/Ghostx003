@@ -88,18 +88,18 @@ const devi = {
 # 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Ghostx003/CourseFlix">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ghostx003&repo=CourseFlix&theme=dark" alt="CourseFlix Pin Card" />
+  <a href="https://github.com/Ghostx003/courceflix-PRO">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ghostx003&repo=courceflix-PRO&theme=dark" alt="CourseFlix Pin Card" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Ghostx003/TestFlix">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ghostx003&repo=TestFlix&theme=dark" alt="TestFlix Pin Card" />
+  <a href="https://github.com/Ghostx003/Testflix-live">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ghostx003&repo=Testflix-live&theme=dark" alt="TestFlix Pin Card" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ghostx003/Codex-Manager">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ghostx003&repo=Codex-Manager&theme=dark" alt="Codex Manager Pin Card" />
+  <a href="https://github.com/Ghostx003/codexmanager">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ghostx003&repo=codexmanager&theme=dark" alt="Codex Manager Pin Card" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ghostx003/BOOKMARKER">
@@ -114,9 +114,9 @@ const devi = {
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
-| 🚀 **CourseFlix** | Ultimate Learning Ecosystem | [View Repository](https://github.com/Ghostx003/CourseFlix) |
-| 📊 **TestFlix** | Test Analytics Platform | [View Repository](https://github.com/Ghostx003/TestFlix) |
-| 🛡️ **Codex Manager** | Commercial-grade Project Dashboard | [View Repository](https://github.com/Ghostx003/Codex-Manager) |
+| 🚀 **CourseFlix** | Ultimate Learning Ecosystem | [View Repository](https://github.com/Ghostx003/courceflix-PRO) |
+| 📊 **TestFlix** | Test Analytics Platform | [View Repository](https://github.com/Ghostx003/Testflix-live) |
+| 🛡️ **Codex Manager** | Commercial-grade Project Dashboard | [View Repository](https://github.com/Ghostx003/codexmanager) |
 | 🔖 **BOOKMARKER** | Tab & Bookmark Management System | [View Repository](https://github.com/Ghostx003/BOOKMARKER) |
 
 </details>
@@ -137,10 +137,34 @@ const devi = {
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake & Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghostx003/Ghostx003/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghostx003/Ghostx003/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Ghostx003/Ghostx003/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghostx003&theme=github-compact" alt="Contribution Graph" width="100%" />
+</p>
+
+---
+
+# 🎵 Currently Playing on Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ghostx003" alt="Spotify Recently Played" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA" target="_blank">
+    <img src="https://img.shields.io/badge/🎧_On_Repeat-80_Proof_--_Eric_Reprid-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play 80 Proof by Eric Reprid on Spotify" />
+  </a>
 </p>
 
 ---
