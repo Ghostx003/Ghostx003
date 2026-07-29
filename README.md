@@ -103,27 +103,8 @@ Git • GitHub • VS Code • GraphQL • Webpack
 
 # 📊 GitHub Analytics
 
-<p align="center">
+![](https://github-readme-stats.shion.dev/api?username=Ghostx003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=Ghostx003&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ghostx003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ghostx003&show_icons=true&theme=github_dark&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostx003&layout=compact&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ghostx003&theme=github-dark-blue"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Ghostx003&theme=algolia&no-frame=true&column=7)
-
----
 
 # 📈 Contribution Graph
 
