@@ -110,13 +110,6 @@ Git • GitHub • VS Code • GraphQL • Webpack
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ghostx003&theme=github-compact)
 
----
-
-# 🐍 Contributions
-
-![](https://github.com/Ghostx003/Ghostx003/blob/output/github-contribution-grid-snake-dark.svg)
-
----
 
 # 💬 Quote
 
@@ -128,15 +121,15 @@ Git • GitHub • VS Code • GraphQL • Webpack
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<!-- <a href="https://linkedin.com/in/YOUR_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+</a> -->
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nayakdevi8@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://YOUR_PORTFOLIO](https://devinayak.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
