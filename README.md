@@ -156,14 +156,8 @@ const devi = {
 # 🎵 Currently Playing on Spotify
 
 <p align="center">
-  <a href="https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ghostx003" alt="Spotify Recently Played" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA" target="_blank">
-    <img src="https://img.shields.io/badge/🎧_On_Repeat-80_Proof_--_Eric_Reprid-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play 80 Proof by Eric Reprid on Spotify" />
+  <a href="https://spotify-recently-played-readme.vercel.app" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ghostx003" alt="Spotify Currently Playing" />
   </a>
 </p>
 
