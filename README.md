@@ -103,8 +103,39 @@ Git • GitHub • VS Code • GraphQL • Webpack
 
 # 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=Ghostx003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=Ghostx003&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ghostx003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<img src="https://github-readme-stats.shion.dev/api?username=Ghostx003&theme=dark&hide_border=false"/>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ghostx003&layout=compact&theme=dark&hide_border=false"/>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<img src="https://streak-stats.demolab.com/?user=Ghostx003&theme=dark&hide_border=false"/>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
 # 📈 Contribution Graph
 
