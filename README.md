@@ -156,8 +156,8 @@ const devi = {
 # 🎵 Currently Playing on Spotify
 
 <p align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ghostx003" alt="Spotify Currently Playing" />
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21wxjtnz4wdxtwdsf6ozqihya" alt="Spotify Recently Played" />
   </a>
 </p>
 
