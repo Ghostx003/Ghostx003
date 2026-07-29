@@ -4,13 +4,13 @@
 
 ### Software Engineer • AI Enthusiast • Full Stack Developer • Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&lines=Building+Beautiful+Software;Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&lines=Building+Beautiful+Software;Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Always+Learning+Something+New" alt="Typing SVG" />
 
 <p>
 Building scalable applications, beautiful user experiences, and AI-powered products.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ghostx003&label=Profile+Views&color=22c55e&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Ghostx003&label=Profile+Views&color=22c55e&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -52,64 +52,98 @@ const devi = {
 
 # 🎯 Current Focus
 
-- 🚀 Building production-grade developer tools
-- 🤖 Learning Artificial Intelligence & LLMs
-- ☁️ Exploring Cloud & Distributed Systems
-- 📚 Preparing for GATE CSE
-- 💡 Contributing to Open Source
+- 🚀 **Building production-grade developer tools**
+- 🤖 **Learning Artificial Intelligence & LLMs**
+- ☁️ **Exploring Cloud & Distributed Systems**
+- 📚 **Preparing for GATE CSE**
+- 💡 **Contributing to Open Source**
 
 ---
 
-# 🛠 Tech Stack
+# 🖥️ Technical Skills
 
-### Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,py,r,react,nextjs,vite,tailwind,bootstrap,jquery,nodejs,express,fastapi,django,nginx,mongodb,postgres,mysql,redis,firebase,pytorch,tensorflow,sklearn,pandas,docker,kubernetes,aws,jenkins,linux,git,github,vscode,graphql,webpack&perline=13" alt="Technical Skills" />
+  </a>
+</p>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-### Frontend
+<details open>
+<summary><strong>🔍 Detailed Tech Stack Breakdown</strong></summary>
 
-React • Next.js • Vite • Tailwind CSS • HTML • CSS
+<br/>
 
-### Backend
+- 💻 **Languages:** C++ • Java • JavaScript • Python • R • HTML5 • CSS3
+- 🎨 **Frontend:** React • Next.js • Vite • Tailwind CSS • Bootstrap • jQuery • Web3.js
+- ⚙️ **Backend:** Node.js • Express • FastAPI • Django • Nginx • Apache • Elasticsearch
+- 🗄️ **Databases:** MongoDB • PostgreSQL • MySQL • Redis • Firebase
+- 🤖 **AI / ML & Data:** PyTorch • TensorFlow • Keras • Scikit-Learn • SciPy • Pandas • OpenCV • Streamlit • Plotly • Matplotlib • MLflow
+- ☁️ **DevOps & Cloud:** Docker • Kubernetes • AWS • Jenkins • Linux
+- 🛠️ **Tools & Environments:** Git • GitHub • VS Code • GraphQL • Webpack • Qt
 
-Node.js • Express • FastAPI • Django
-
-### Databases
-
-MongoDB • PostgreSQL • MySQL • Redis • Firebase
-
-### AI / ML
-
-PyTorch • TensorFlow • Scikit-Learn • OpenCV • Pandas • NumPy
-
-### DevOps & Cloud
-
-Docker • Kubernetes • AWS • Jenkins • Nginx • Linux
-
-### Tools
-
-Git • GitHub • VS Code • GraphQL • Webpack
+</details>
 
 ---
 
 # 🌟 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🚀 CourseFlix | Ultimate Learning Ecosystem |
-| 📊 TestFlix | Test Analytics Platform |
-| 🛡 Codex Manager | Commercial-grade Project Dashboard |
+<p align="center">
+  <a href="https://github.com/Ghostx003/CourseFlix">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ghostx003&repo=CourseFlix&theme=dark" alt="CourseFlix Pin Card" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Ghostx003/TestFlix">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ghostx003&repo=TestFlix&theme=dark" alt="TestFlix Pin Card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ghostx003/Codex-Manager">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ghostx003&repo=Codex-Manager&theme=dark" alt="Codex Manager Pin Card" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Ghostx003/BOOKMARKER">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ghostx003&repo=BOOKMARKER&theme=dark" alt="BOOKMARKER Pin Card" />
+  </a>
+</p>
+
+<details open>
+<summary><strong>📋 Project Details</strong></summary>
+
+<br/>
+
+| Project | Description | Link |
+| :--- | :--- | :---: |
+| 🚀 **CourseFlix** | Ultimate Learning Ecosystem | [View Repository](https://github.com/Ghostx003/CourseFlix) |
+| 📊 **TestFlix** | Test Analytics Platform | [View Repository](https://github.com/Ghostx003/TestFlix) |
+| 🛡️ **Codex Manager** | Commercial-grade Project Dashboard | [View Repository](https://github.com/Ghostx003/Codex-Manager) |
+| 🔖 **BOOKMARKER** | Tab & Bookmark Management System | [View Repository](https://github.com/Ghostx003/BOOKMARKER) |
+
+</details>
 
 ---
 
 # 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=Ghostx003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=Ghostx003&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ghostx003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Ghostx003&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="192" alt="Devi's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ghostx003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="192" alt="Most Used Languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ghostx003&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ghostx003&theme=github-compact)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghostx003&theme=github-compact" alt="Contribution Graph" width="100%" />
+</p>
 
+---
 
 # 💬 Quote
 
@@ -120,19 +154,16 @@ Git • GitHub • VS Code • GraphQL • Webpack
 # 🤝 Connect With Me
 
 <p align="center">
-
-<!-- <a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a> -->
-
-<a href="mailto:nayakdevi8@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO](https://devinayak.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <!-- <a href="https://linkedin.com/in/YOUR_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a> -->
+  <a href="mailto:nayakdevi8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://devinayak.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
